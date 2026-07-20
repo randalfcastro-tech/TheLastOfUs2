@@ -1,0 +1,23 @@
+1 shaders
+================================================
+Shader 0 = objects/characters/ellie/farm-explore/sling:default,8495e1f9-2b07-46bf-9b1d-b79ffcb4fb2f,physical-character.fx
+================================================
+g_tNdFetchBaseColor01Map	art/objects/characters/ellie/textures/farm-explore/ellie-farm-explore-sling-color.tga
+g_tNdFetchNormal01Map	art/objects/characters/ellie/textures/farm-explore/ellie-farm-explore-sling-normal.tga
+g_tNdFetchAo01Map	art/objects/characters/ellie/textures/farm-explore/ellie-farm-explore-sling-ao.tga
+g_tNdFetchLinearBlend02Map	art/objects/characters/ellie/textures/farm-explore/ellie-farm-explore-sling-fabric-blend.tga
+g_tNdFetchLinearBlend03Map	art/objects/characters/ellie/textures/farm-explore/ellie-farm-explore-sling-fabric-blend.tga
+g_tNdFetchDefaultWindMapMap	art/shared/utilities/textures/waves-wind.tga
+g_tNdFetchDefaultWindNormalMapMap	art/shared/utilities/textures/waves-wind-normal.tga
+g_tNdFetchFabricBurnColorMap	art/shared/characters/fabrics/burn/burn-color.tga
+g_tNdFetchFabricBurnNormalRoughMap	art/shared/characters/fabrics/burn/burn-normalrough.tga
+g_tNdFetchNewBloodColorMap	art/shared/characters/blood/blood-color.tga
+g_tNdFetchBloodNormalMap	art/shared/characters/blood/blood-normal.tga
+g_tNdFetchCotton1NormalMap	art/shared/characters/fabrics/fabrics-cotton-1-normal-ao.tga
+g_tNdFetchVarMaskMap	art/shared/characters/fabrics/mask/imperfect-mask.tga
+g_tNdFetchFabricSmallWrinklesNormalMap	art/shared/characters/fabrics/mask/fabrics-small-wrinkles.tga
+g_tNdFetchVar1NormalMap	art/shared/characters/fabrics/mask/fabrics-var-normal-1.tga
+g_tNdFetchImperfectDetails2NormalMap	art/shared/characters/fabrics/mask/imperfect-details2-normal.tga
+g_tNdFetchImperfectDetails2SoftLightMap	art/shared/characters/fabrics/mask/imperfect-details2-softlight.tga
+g_tNdFetchStitchesColorMap	art/shared/characters/fabrics/decal/stitches-holes-color.tga
+g_tNdFetchStitchesNormalMap	art/shared/characters/fabrics/decal/stitches-holes-normal.tga

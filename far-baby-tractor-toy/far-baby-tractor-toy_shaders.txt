@@ -1,0 +1,12 @@
+2 shaders
+================================================
+Shader 0 = general/white-white:default,0bd353a9-47fd-d4a1-d528-7187054c,physical-blend.fx
+================================================
+================================================
+Shader 1 = objects/common/stuffed-animals/animals-set-b/set-b-elephant:default,b66d8673-ed01-4cf1-9b5d-1534755d000c,physical-blend.fx
+================================================
+g_tNdFetchBaseColor01Map	art/objects/common/stuffed-animals/textures/stuffed-animals-set-b-elephant-2-color.tga
+g_tNdFetchNormal01Map	art/objects/common/stuffed-animals/textures/stuffed-animals-set-b-elephant2-normal.tga
+g_tNdFetchPack_RO_AO_01Map	art/objects/common/stuffed-animals/textures/stuffed-animals-set-b-elephant-roughness.tga
+g_tNdFetchLinenANormalMap	art/shared/characters/fabrics/fabrics-linen-1-normal-ao.tga
+g_tNdFetchVar1NormalMap	art/shared/characters/fabrics/mask/fabrics-var-normal-1.tga

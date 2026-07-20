@@ -1,0 +1,8 @@
+newmtl shader_0
+map_Kd shader_0
+map_d shader_0
+
+newmtl shader_1
+map_Kd stuffed-animals-set-b-elephant-2-color.tga
+map_d stuffed-animals-set-b-elephant-2-color.tga
+
