@@ -1,0 +1,8 @@
+2 shaders
+================================================
+Shader 0 = objects/common/window-curtain/window-curtain-b-no-trans:default,8d403f5f-32c7-488a-a42e-e9f633311b6d,physical-blend.fx
+================================================
+g_tNdFetchBaseColor01Map	art/objects/common/window-curtains/textures/citi-fabric-combo-02-color.tga
+================================================
+Shader 1 = general/white-white:default,0bd353a9-47fd-d4a1-d528-7187054c,physical-blend.fx
+================================================

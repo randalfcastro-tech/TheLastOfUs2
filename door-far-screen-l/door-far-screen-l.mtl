@@ -1,0 +1,12 @@
+newmtl shader_0
+map_Kd interior-door-set-d-color.tga
+map_d interior-door-set-d-color.tga
+
+newmtl shader_1
+map_Kd lib-1m-grid-white-color.tga
+map_d lib-1m-grid-white-color.tga
+
+newmtl shader_2
+map_Kd shader_2
+map_d shader_2
+

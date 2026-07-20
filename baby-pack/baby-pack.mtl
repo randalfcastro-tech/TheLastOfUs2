@@ -1,0 +1,8 @@
+newmtl shader_0
+map_Kd citi-fabric-combo-02-color.tga
+map_d citi-fabric-combo-02-color.tga
+
+newmtl shader_1
+map_Kd shader_1
+map_d shader_1
+

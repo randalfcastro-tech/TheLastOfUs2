@@ -1,0 +1,14 @@
+3 shaders
+================================================
+Shader 0 = shared/background/asset-library/home/doors/door-interior-d:default,e8cd1822-6431-4614-845b-27696be7a730,physical-blend.fx
+================================================
+g_tNdFetchBaseColor01Map	art/shared/background/asset-library/textures/home/doors/interior-door-set-d-color.tga
+g_tNdFetchNormal01Map	art/shared/background/asset-library/textures/home/doors/interior-door-set-d-normal.tga
+g_tNdFetchPack_RO_AO_ME_01Map	art/shared/background/asset-library/textures/home/doors/interior-door-set-d-roughness.tga
+================================================
+Shader 1 = shared/common-surfaces/autogrid/lib-autogrid-1m-vertex-colors:default,e85b452e-cccd-45c4-b0ba-5dcab1eb803b,physical-blend.fx
+================================================
+g_tNdFetchTripleBaseColor02Map	art/library/textures/lib-1m-grid-white-color.tga
+================================================
+Shader 2 = general/white-white:default,0bd353a9-47fd-d4a1-d528-7187054c,physical-blend.fx
+================================================
